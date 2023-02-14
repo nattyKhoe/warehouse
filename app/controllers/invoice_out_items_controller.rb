@@ -1,0 +1,2 @@
+class InvoiceOutItemsController < ApplicationController
+end

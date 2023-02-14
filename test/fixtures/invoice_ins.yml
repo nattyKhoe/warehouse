@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  invoice_no: MyString
+  date: 2023-01-27
+  manufacturer_id: 1
+  due_date: 2023-01-27
+  tax: 1.5
+  total: 1.5
+  grand_total: 1.5
+
+two:
+  invoice_no: MyString
+  date: 2023-01-27
+  manufacturer_id: 1
+  due_date: 2023-01-27
+  tax: 1.5
+  total: 1.5
+  grand_total: 1.5
